@@ -1,29 +1,24 @@
-# app
+# Real-time chat application with NodeJs, Socket.io and Vue.js demo
 
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Run the server
+
+Go to the server folder and run:
 ```
-yarn run serve
+node app.js
+```
+Now, your server is running.
+
+### Run the frontend application
+
+Go to the src folder and run:
+```
+yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### This app is under construction!
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
