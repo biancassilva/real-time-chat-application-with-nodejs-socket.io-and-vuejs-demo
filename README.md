@@ -11,7 +11,6 @@ Go to the server folder and run:
 ```
 node app.js
 ```
-Now, your server is running.
 
 ### Run the frontend application
 
